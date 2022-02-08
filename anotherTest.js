@@ -1,8 +1,5 @@
-function fun(){
-    console.log("This is fun function");
+let x = 1;
+for (let i = 1; i < 10; i++) {
+    x+=2;
+    console.log(x);
 }
-console.log(fun);
-var x = fun;
-console.log(x);
-var y = fun();
-//console.log(y);
