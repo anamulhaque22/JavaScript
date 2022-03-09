@@ -5,5 +5,3 @@ console.log(y);
 console.log(z);
 console.log(rest); */
 console.log(...num);
-let [...x] = num;
-console.log(x)
