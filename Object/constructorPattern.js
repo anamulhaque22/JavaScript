@@ -9,4 +9,6 @@ function ConstructorPattern(name, age, position, salary) {
     }
 }
 var emp1 = new ConstructorPattern("Alex Akash", 24, "Senior Developer", 2000000);
-emp1.employeeDes();
+//emp1.employeeDes();
+console.log(typeof emp1)
+

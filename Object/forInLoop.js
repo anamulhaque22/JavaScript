@@ -16,6 +16,7 @@ const person = {
         mother: "Morshida",
     }
 };
+
 /* let personDescription ="";
 for(const personProperty in person){
     personDescription+=person[personProperty];
