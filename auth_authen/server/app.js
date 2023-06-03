@@ -53,6 +53,3 @@ app.use("*",(req,res)=>{
 });
 
 module.exports = app;
-
-// anamulah00
-// POVgRdrJWf5EHjRZ 
