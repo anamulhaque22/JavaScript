@@ -1,0 +1,6 @@
+1. Go both folder (client and server) using terminal and in terminal type yarn.
+2. Then start server using command "yarn serve" and to client server using command "yarn start".
+3. Now you can see the application in browser using url "http://localhost:3000/".
+4. After that you have to create a user using Registration page.
+5. Then you can login using that user.
+6. After login you can see the protected page.
