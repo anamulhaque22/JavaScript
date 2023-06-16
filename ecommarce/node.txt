@@ -1,0 +1,2 @@
+client: laptop-bazar-client.vercel.app
+Backend: https://ecommarce-backend-production.up.railway.app/api/v1

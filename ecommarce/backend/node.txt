@@ -1,0 +1,36 @@
+Database Collection Name:
+1. Product
+2. Order
+3. User
+
+Product Schema:
+{
+    title, description, price, image, and quantity.
+}
+
+Order Schema
+{
+     customer name, email, address, product list, and total price
+}
+
+User Schema
+{
+    name, email, mobile, password, address, gender
+}
+
+
+List of API's
+User API's
+1. Registration
+2. Login
+
+Product API's
+1. Get list of product
+2. Retrieve a single product by ID
+3. Add a new product
+4. Update an existing product
+5. Delete a product
+
+Order API's
+1. Create a new Order
+2. Retrieve a list of all orders.
