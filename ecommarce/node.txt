@@ -1,2 +1,7 @@
+Github Link:
+client: https://github.com/anamulhaque22/JavaScript/tree/main/ecommarce/client
+Backend:https://github.com/anamulhaque22/JavaScript/tree/main/ecommarce/backend
+
+Deployed backend and frontend link: 
 client: laptop-bazar-client.vercel.app
 Backend: https://ecommarce-backend-production.up.railway.app/api/v1
